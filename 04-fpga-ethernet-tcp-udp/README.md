@@ -1,6 +1,6 @@
 # FPGA Ethernet Performance: TCP and UDP
 
-Two reports that build gigabit Ethernet performance servers on Xilinx hardware and measure them on the bench. The same two systems are the baselines of the [final project](../04-final-project-fpga-networking-udp-plus).
+Two reports that build gigabit Ethernet performance servers on Xilinx hardware and measure them on the bench. The same two systems are the baselines of the [final project](../05-final-project-fpga-networking-udp-plus).
 
 ## Reports
 
