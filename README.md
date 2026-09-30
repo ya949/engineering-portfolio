@@ -17,3 +17,7 @@ This repository collects technical reports from FPGA, embedded, analog IC and PC
 ## Reading the reports
 
 Each PDF opens directly in the GitHub viewer. The long reports have a table of contents on the first pages.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/yair-tayri-806488279)
