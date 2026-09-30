@@ -6,13 +6,13 @@ This repository collects technical reports from FPGA, embedded, analog IC and PC
 
 ## Projects
 
-| Folder | Topic | Platforms | Tools |
+| Project | Key result | Platforms | Tools |
 |---|---|---|---|
-| [05-final-project-fpga-networking-udp-plus](05-final-project-fpga-networking-udp-plus) | Final project: TCP, UDP and UDP++ reliability layer on Gigabit Ethernet | Zynq-7000, VCU118 | Vivado, Vitis 2024.2, ILA, Wireshark, iperf |
-| [01-rfic-4ghz-vco-180nm](01-rfic-4ghz-vco-180nm) | 4 GHz current starved ring VCO | TowerJazz 180 nm CMOS | Cadence Virtuoso |
-| [04-fpga-ethernet-tcp-udp](04-fpga-ethernet-tcp-udp) | Step-by-step TCP and UDP performance servers | Zynq-7000, VCU118 | Vivado, Vitis 2024.2, ILA, Wireshark, iperf |
-| [03-microblaze-soc-design-flow](03-microblaze-soc-design-flow) | MicroBlaze SoC from RTL to custom AXI IP and DDR | VCU118, Zynq-7000, AC701 | Vivado, Vitis, ModelSim, ILA |
-| [02-kicad-power-and-led-blocks](02-kicad-power-and-led-blocks) | Schematic capture of a power block and an RGB LED driver block | KiCad 9 | KiCad, Git, GitHub |
+| [Final project: TCP, UDP and UDP++ on Gigabit Ethernet](05-final-project-fpga-networking-udp-plus) | UDP++ reliability layer in hardware: 692 Mbps at 512 B, median RTT 507 µs | Zynq-7000, VCU118 | Vivado, Vitis 2024.2, ILA, Wireshark, iperf |
+| [4 GHz current starved ring VCO](01-rfic-4ghz-vco-180nm) | 134 µW at 4 GHz, phase noise -72.9 dBc/Hz at 1 MHz offset | TowerJazz 180 nm CMOS | Cadence Virtuoso |
+| [TCP and UDP performance servers](04-fpga-ethernet-tcp-udp) | TCP about 940 Mbps, UDP about 850 Mbps | Zynq-7000, VCU118 | Vivado, Vitis 2024.2, ILA, Wireshark, iperf |
+| [MicroBlaze SoC design flow](03-microblaze-soc-design-flow) | Five chapters from RTL to a custom AXI4-Lite IP verified on hardware | VCU118, Zynq-7000, AC701 | Vivado, Vitis, ModelSim, ILA |
+| [KiCad power and RGB LED blocks](02-kicad-power-and-led-blocks) | TPS55288 5 to 14 V to 5 V block and an I2C RGB LED driver block | KiCad 9 | KiCad, Git, GitHub |
 
 ## Reading the reports
 
